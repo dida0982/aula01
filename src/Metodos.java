@@ -9,3 +9,7 @@ public class Metodos {
         exibirSaudacao();
     }
 }
+// método é um bloco de código que realiza uma tarefa específica
+// pode receber parâmetros para trabalhar com dados de entrada
+// pode retornar um valor após a execução
+// ajuda a organizar o código em partes reutilizáveis e modulares

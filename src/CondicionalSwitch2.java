@@ -33,3 +33,8 @@ public class CondicionalSwitch2 {
         System.out.println("O dia da semana é: " + diaNome);
     }
 }
+// switch avalia a variável e executa o case correspondente
+// break é usado para sair do switch após executar o case correspondente
+// default é executado se nenhum case corresponder
+// sem o break, o switch continua executando os próximos cases (fall-through)
+// útil para agrupar múltiplos cases que compartilham o mesmo bloco de código

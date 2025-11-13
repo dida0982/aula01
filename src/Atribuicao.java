@@ -7,3 +7,11 @@ public class Atribuicao {
         System.out.println("x após ++: " + ++x);
     }
 }
+
+// = é o operador de atribuição
+// += adiciona um valor à variável e atribui o resultado de volta à variável
+// -= subtrai um valor da variável e atribui o resultado de volta à variável
+// *= multiplica a variável por um valor e atribui o resultado de volta à variável
+// /= divide a variável por um valor e atribui o resultado de volta à variável
+// ++ incrementa o valor da variável em 1
+// -- decrementa o valor da variável em 1

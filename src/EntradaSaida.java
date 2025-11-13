@@ -15,3 +15,8 @@ public class EntradaSaida {
         scanner.close();
     }
 }
+// Scanner é usado para ler entrada do usuário
+// System.out.print e System.out.printf são usados para exibir saída formatada no console
+// %s é um placeholder para strings, %d para inteiros, %n para nova linha
+// scanner.nextLine() lê uma linha inteira de texto
+// scanner.nextInt() lê um número inteiro da entrada do usuário
