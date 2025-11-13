@@ -1,4 +1,4 @@
-public class atribuicao {
+public class Atribuicao {
 
     public static void main(String[] args) {
         int x = 5;
