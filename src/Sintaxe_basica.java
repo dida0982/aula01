@@ -40,7 +40,8 @@ Assuma ‘MyFirstJavaProgram’ é o nome da classe. Em seguida, o arquivo deve 
 • public static void main(String args[]) – O processamento de programas Java começa a partir do método main(), que é uma parte obrigatória de cada programa Java.
 */
 
-/*2 .5 . SinTaXe BÁSica da LingUagem
+/*
+2 .5 . SinTaXe BÁSica da LingUagem
 A sintaxe de uma linguagem de programação são as regras que definem como você deve escrever o código para que o compilador possa entendê-lo. A sintaxe de Java é baseada em C e C++, clara, fortemente tipada, mas com algumas simplificações.
 Quando consideramos um programa Java, ele pode ser definido como uma coleção de objetos que se comunicam através da invocação dos métodos uns dos outros. Abaixo estão os principais elementos:
 • Classes e objetos: toda aplicação Java é baseada em classe. O código é organizado dentro de classes e os objetos são instâncias dessas classes;
@@ -56,3 +57,4 @@ String nome;
 int idade = 30;
 • Operadores: matemáticos (+, -, *, /), relacionais (==,!=, >, <), lógicos (&&, ||,!);
 • Estruturas de controle: condicionais (if, else, switch) e laços (for, while, do-while);
+*/

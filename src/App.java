@@ -5,4 +5,5 @@ public class App {
 }
 // Comandos essenciais do dia a dia no terminal
 /*
---- Instruções para compilar e executar programas Java ---
+ * --- Instruções para compilar e executar programas Java ---
+ */
