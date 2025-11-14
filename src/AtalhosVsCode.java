@@ -111,8 +111,8 @@ Para **substituir várias palavras por outras no VS Code**, existem **3 maneiras
 * **Ctrl + H**
 * Depois use:
 
-  * **Enter** → substitui a atual
-  * **Shift + Enter** → pula para a próxima sem substituir
+* **Enter** → substitui a atual
+* **Shift + Enter** → pula para a próxima sem substituir
 
 ---
 
@@ -152,3 +152,5 @@ Se quiser, te ensino como usar **expressões regulares** para substituir várias
 
 
 */
+
+// Fim dos atalhos essenciais do VS Code

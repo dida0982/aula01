@@ -219,5 +219,7 @@ cls
 ```
 
 ---
+}
 */
+// Fim dos comandos essenciais do dia a dia no terminal
 }
